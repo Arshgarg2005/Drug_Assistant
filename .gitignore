@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pretrained models
+pretrained_models/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.bin
+*.ckpt
+*.safetensors
+*.zip
